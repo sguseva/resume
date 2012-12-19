@@ -1,0 +1,34 @@
+.b_contacts_icon{
+    position: relative;
+}
+
+.b_contacts_icon span{
+    font-family: Roboto;
+    font-weight: bold; 
+}
+
+.b_contacts_icon_mobile{
+    position: absolute;
+    left: 0px;
+    top: 20px;
+
+}
+
+.b_contacts_icon_skype{
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
+
+.b_contacts_icon_facebook{
+    position: absolute;
+    left: 400px;
+    top: 20px;
+    border: none;
+}
+
+.b_contacts_icon_mail{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+}

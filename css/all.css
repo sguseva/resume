@@ -1,0 +1,18 @@
+@import "fonts/roboto/roboto.css";
+
+@import "blocks/menu/styles.css";
+@import "blocks/about/styles.css";
+@import "blocks/wcloud/styles.css";
+@import "blocks/education/styles.css";
+@import "blocks/portfolio/styles.css";
+@import "blocks/header/styles.css";
+@import "blocks/footer/styles.css";
+@import "blocks/contacts/styles.css";
+@import "blocks/experience/styles.css";
+
+@import "globals/headers.css";
+@import "globals/general.css";
+@import "globals/timeline.css";
+
+@import "local.css";
+

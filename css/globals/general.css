@@ -1,0 +1,15 @@
+.g_rightaligntext {
+    text-align: right;
+}
+
+.g_boldtext {
+    font-weight: bold;
+}
+
+.g_valign_top {
+    vertical-align: top;
+}
+
+.g_img_noborder{
+    border: none;
+}

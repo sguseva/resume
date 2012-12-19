@@ -1,0 +1,17 @@
+.b_wcloud {
+    float: left;
+    text-align: left;
+}
+
+.b_wcloud_textblock {
+    float: left;
+    padding: 0 3px;
+}
+
+.b_wcloud_textblock > span {
+    display: block;
+}
+
+.b_wcloud_closeblock {
+    clear: both;
+}

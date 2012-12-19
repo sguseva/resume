@@ -1,0 +1,22 @@
+h1.g_section_header {
+    color: #fca22f;
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2.g_section_header {
+    color: #75BA53;
+    font-size: 18px;
+    border-bottom: 2px solid #CCCCCC;
+}
+
+hr.g_section_underline {
+    border: none;
+    height: 0px;
+    margin:0px;
+
+    border-top: 1px solid #b3b3b3;
+    border-bottom: 1px solid #b3b3b3;
+    padding-top: 1px;
+}

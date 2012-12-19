@@ -1,0 +1,127 @@
+.b_education {
+    
+}
+
+.b_education_timeline {
+    position: relative;
+    height: 200px;
+}
+
+.b_education_timeline__hr {
+    position: absolute;
+    border: none;
+    height: 0px;
+    margin: 0px;
+
+    border-bottom: 1px dashed #0e93c6;
+    top: 100px;
+    left: 25px;
+    width: 740px;
+}
+
+.b_education_timeline__birth {
+    position: absolute;
+    left: 0px;
+    top: 130px;
+}
+
+.b_education_timeline__birth_marker {
+    position: absolute;
+    left: 15px;
+    top: 94px;
+}
+
+.b_education_timeline__birth_date {
+    position: absolute;
+    left: 6px;
+    top: 75px;
+}
+
+.b_education_timeline__painting_marker {
+    position: absolute;
+    left: 100px;
+    top: 74px;
+}
+
+.b_education_timeline__painting {
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.b_education_timeline__painting_date {
+    position: absolute;
+    left: 92px;
+    top: 107px;
+}
+.b_education_timeline__school_marker {
+    position: absolute;
+    left: 200px;
+    top: 94px;
+}
+
+.b_education_timeline__school {
+    position: absolute;
+    left: 150px;
+    top: 130px;
+}
+
+.b_education_timeline__school_date {
+    position: absolute;
+    left: 192px;
+    top: 75px;
+}
+
+.b_education_timeline__photo_marker {
+    position: absolute;
+    left: 400px;
+    top: 74px;
+}
+
+.b_education_timeline__photo {
+    position: absolute;
+    left: 335px;
+    top: 10px;
+}
+
+.b_education_timeline__photo_date {
+    position: absolute;
+    left: 392px;
+    top: 107px;
+}
+
+.b_education_timeline__university_marker {
+    position: absolute;
+    left: 680px;
+    top: 94px;
+}
+
+.b_education_timeline__university {
+    position: absolute;
+    left: 335px;
+    top: 130px;
+}
+
+.b_education_timeline__university_date {
+    position: absolute;
+    left: 672px;
+    top: 75px;
+}
+
+.b_education_timeline__training_marker {
+    position: absolute;
+    left: 755px;
+    top: 74px;
+}
+
+.b_education_timeline__training {
+    position: absolute;
+    left: 565px;
+    top: 10px;
+}
+
+.b_education_timeline__training_date {
+    position: absolute;
+    left: 747px;
+    top: 107px;
+}

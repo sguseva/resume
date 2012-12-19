@@ -1,0 +1,18 @@
+.b_about {
+    width: 340px;
+    float: left;
+    min-height: 170px;
+}
+
+.b_about_text {
+    border: 1px dashed #5B4E46;
+    padding: 10px;
+    margin: 5px 10px 5px 90px;
+    position: relative;
+}
+
+.b_about_text__img {
+    position: absolute;
+    left:-91px;
+    top:0;
+}

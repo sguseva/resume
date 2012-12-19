@@ -1,0 +1,12 @@
+.g_timeline_line {
+    width:5px;
+    height: 20px;
+    border-right: 1px dashed #0e93c6;
+}
+
+.g_timeline_circle{
+    width:11px;
+    height:11px;
+    border-radius:5px;
+    background:#0e93c6;
+}

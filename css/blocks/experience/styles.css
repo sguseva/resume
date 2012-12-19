@@ -1,0 +1,38 @@
+.b_experience_jobs__list,
+.b_experience_knowledges__list {
+    margin: 0px;
+    padding: 0px;
+    list-style: square inside none;
+    font-style: italic;
+}
+
+.b_experience_jobs_date__td {
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.b_experience_jobs_date {
+    position: relative;
+    text-align: right;
+    padding-right: 8px;
+}
+
+.b_experience_jobs_date .g_timeline_circle {
+    position: absolute;
+    right: -6px;
+    top: 3px;
+}
+
+.b_experience_jobs_description__td {
+    border-left: 1px dashed #0e93c6;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.b_experience_jobs_description_dates{
+    display: block;
+}
+
+.b_experience_jobs_description_jobTitle {
+    display: block;
+}

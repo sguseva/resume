@@ -1,0 +1,48 @@
+.b_portfolio {
+    
+}
+
+.b_portfolio_list{
+    
+}
+
+.b_portfolio_list__ol {
+    padding: 0px;
+    margin: 0px;
+}
+
+.b_portfolio_list__a{
+    display: block;
+    width: 140px;  height: 140px;
+}
+
+.b_portfolio_list__ol li{
+    float: left;
+    display: inline;
+    margin: 10px;
+    -webkit-border-radius: 80px;
+    -moz-border-radius: 80px;
+    border-radius: 80px;
+    -webkit-transition: -webkit-border-radius 0.20s linear;
+    -moz-transition: -moz-border-radius 0.20s linear;
+    -o-transition: all 0.20s linear;
+    transition: border-radius 0.20s linear;
+}
+
+.b_portfolio_list__ol li:hover{
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    background-position: 0 0;
+}
+
+.b_portfolio_list_sample1{ background: url('img/sprite1.jpg') 0 140px; }
+.b_portfolio_list_sample2{ background: url('img/sprite2.jpg') 0 140px; }
+.b_portfolio_list_sample3{ background: url('img/sprite3.jpg') 0 140px; }
+.b_portfolio_list_sample4{ background: url('img/sprite4.jpg') 0 140px; }
+.b_portfolio_list_sample5{ background: url('img/sprite5.jpg') 0 140px; }
+.b_portfolio_list_sample6{ background: url('img/sprite6.jpg') 0 140px; }
+.b_portfolio_list_sample7{ background: url('img/sprite7.jpg') 0 140px; }
+.b_portfolio_list_sample8{ background: url('img/sprite8.jpg') 0 140px; }
+.b_portfolio_list_sample9{ background: url('img/sprite9.jpg') 0 140px; }
+.b_portfolio_list_sample10{ background: url('img/sprite10.jpg') 0 140px; }
