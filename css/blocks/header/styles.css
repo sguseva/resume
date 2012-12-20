@@ -1,16 +1,17 @@
 .b_header {
     text-align: center;
     position: relative;
+    height: 120px;
 }
 
 .b_header_logo_left {
     position: absolute;
-    left: 20px;
+    left: 10px;
     top: 25px;
 }
 
 .b_header_logo_right {
     position: absolute;
-    right: 30px;
-    top: 35px;
+    right: 35px;
+    top: 25px;
 }

@@ -2,16 +2,10 @@
     position: relative;
 }
 
-.b_contacts_icon span{
-    font-family: Roboto;
-    font-weight: bold; 
-}
-
 .b_contacts_icon_mobile{
     position: absolute;
     left: 0px;
     top: 20px;
-
 }
 
 .b_contacts_icon_skype{
